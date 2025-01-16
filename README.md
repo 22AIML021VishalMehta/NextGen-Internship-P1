@@ -58,8 +58,6 @@ NextGen-Internship-P1/
 │           ├── documentService.js
 │   ├── public/                  # Public files (index.html, favicon.ico)
 │   ├── package.json             # Frontend dependencies
-├── .env                         # Environment variables for database, JWT secret, etc.
-├── .gitignore                   # Git ignore file
 └── README.md                    # Project documentation
 ```
 
